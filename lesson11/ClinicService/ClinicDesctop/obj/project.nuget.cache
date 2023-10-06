@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNXvxEjyr9884IN9IWuPeMxLIcbblP/Ba01LYVy6UbOjIu1iRTZUJx2/3n7iR+Np/IuHfQsqcbaT0+eyCTLsqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlexAndAnn\\Downloads\\lesson11\\lesson11\\ClinicService\\ClinicDesctop\\ClinicDesctop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlexAndAnn\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
